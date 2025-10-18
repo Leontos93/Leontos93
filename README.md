@@ -13,12 +13,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
-
----
-
 ### 🧠 What I'm Learning
 - Writing clean and efficient Python code  
 - Using Git and GitHub for version control  
